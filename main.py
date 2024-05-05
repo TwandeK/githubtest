@@ -8,8 +8,10 @@ def print_hi(name):
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 def plus(num1, num2):
-    total = num1 + num3
+    total = num1 + num2
     total = total*2
+    sum = 50
+    total = total+sum
 
     return total
 
