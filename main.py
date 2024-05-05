@@ -10,6 +10,8 @@ def print_hi(name):
 def plus(num1, num2):
     total = num1 + num3
     total = total*2
+    sum = 50
+    total = total+sum
 
     return total
 
